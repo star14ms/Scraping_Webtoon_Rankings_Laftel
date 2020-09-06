@@ -14,6 +14,7 @@ driver = webdriver.Chrome(r'[driver path here]')
 ``
 pip install selenium
 ``
+
 ``
 pip install beautifulsoup4
 ``
