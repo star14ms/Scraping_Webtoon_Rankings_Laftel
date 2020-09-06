@@ -3,7 +3,7 @@ from selenium import webdriver
 import time, csv
 
 # 웹 사이트 가져옴
-driver = webdriver.Chrome(r'[driver path here]')
+driver = webdriver.Chrome(r'[webdriver path here]')
 driver.get('https://laftel.net/rank/webtoon')
 driver.implicitly_wait(5)
 
