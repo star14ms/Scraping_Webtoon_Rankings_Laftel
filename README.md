@@ -2,15 +2,18 @@
 # Scraping Webtoon Lankings in Laftel
 
 ### Website to scrap : https://laftel.net/rank/webtoon
-### You need to download webdriver and pips: https://sites.google.com/a/chromium.org/chromedriver/
+### You need to download webdriver and pips
+
+### Webdriver down link : https://sites.google.com/a/chromium.org/chromedriver
+```
+driver = webdriver.Chrome(r'[driver path here]')
+# you need to change that: [driver path here]
+```
+
+### pips down command :
 ``
 pip install selenium
 ``
 ``
 pip install beautifulsoup4
 ``
-
-```
-driver = webdriver.Chrome(r'[driver path here]')
-# you need to change that: [driver path here]
-```
