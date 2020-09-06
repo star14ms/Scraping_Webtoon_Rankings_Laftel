@@ -6,8 +6,8 @@
 
 ### Webdriver down link : https://sites.google.com/a/chromium.org/chromedriver
 ```
-driver = webdriver.Chrome(r'[webdriver path here]')
-# you need to change that: [webdriver path here]
+driver = webdriver.Chrome(r'[Webdriver Path Here]')
+# you need to change that: [Webdriver Path Here]
 ```
 
 ### pips down command :
